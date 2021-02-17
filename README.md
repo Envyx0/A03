@@ -1,3 +1,53 @@
+Step 1: Go on google and search "Jetbrains Webstorm" or use link "https://www.jetbrains.com/community/education/#students" which will lead you to a free educational license.
+
+Step 2: Apply for the product using your University Email Address and having your username as your UCID
+
+Step 3: Once completed the form, download Webstorm and use the free trail until an email is sent to you of a code to activate your free version. 
+
+Step 3: Go to google and search Git or use link "https://git-scm.com/downloads" and download the application. 
+
+Step 4: Go to Github.com and make an account using your University Email
+
+Step 5: Open the application "Webstorm" and go into System Preferances by using shortcut (Ctrl+Alt+S). After select version control, select Git, and on Path to Git executables, enter "C\Program Files\Git\bin\git.exe". (If you have changed the location of Git on your computer, right click on the shortcut icon, properties, and will give you a directory of where the file is located)
+
+Step 6: Still on System Preference, go to Apperance and Behavior, into System Settings, into Passwords, and add a location to the password file
+
+Step 7: Go onto the webpage "Github" and to create your first Repository, on the top right corner, click on the "+" and choose to "Create New Repository"
+
+Step 6: Make the Repository public and add a readme file, afterwards confirm and create the file  
+
+Step 9: Go onto Webstorm now and create a new project, after go to main meny and choose VCS, with Create Git Repository
+
+Step 10: Now to import a Repository, go into webstorm and select VCS and checkout from version contro Git, and enter the name and enter the local path name
+
+Step 11: Now to create a new file on webstorm, choose File, then HTML, then HTML5, and on the top left task bar, it should say GIT, and now you will be able to add to locak file system
+
+Step 12: Save your work and add a Commit your change
+
+Step 13: Push change into Remote Repository by (Ctrl+Shift+K)
+
+Step 14: Go to Github to see that the file is now on your Github by clicking your profile
+
+Step 15: Furthermore, you can go into settings on Github Pages and check the Repository name
+
+Step 16: You can chack the source into Master Branch and save these changes to allow to publish a URL
+
+Step 17: Check your github page and you are all set to use Webstorm, Github, and Git
+
+Cite: 
+
+NJIT Powerpoint Presentation
+
+(she/her), Hannah Fleishman, et al. “An Intro to Git and GitHub for Beginners (Tutorial).” HubSpot Careers, product.hubspot.com/blog/git-and-github-tutorial-   for-beginners. 
+      
+Broman, Karl. “Start a New Git Repository.” Sitewide ATOM, kbroman.org/github_tutorial/pages/init.html.
+
+“Set up a Git Repository - Help: WebStorm.” WebStorm Help, www.jetbrains.com/help/webstorm/set-up-a-git-repository.html. 
+    
+    
+    
+    Glossary: 
+    
     Branch: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
     
     Clone: A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
